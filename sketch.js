@@ -53,7 +53,7 @@ function draw() {
   line(pmouseX, pmouseY, mouseX, mouseY);
 
   if(mappedDistance > 15) {
-    window.open(url + "second-page.html", "_self");
+    window.open("second-page.html", "_self");
   }
 }
 

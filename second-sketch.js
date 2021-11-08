@@ -51,9 +51,9 @@ function draw() {
 }
 
 function mouseClicked() {
-  //window.open("https://www.thomasghilardotti.com/", "_self");
+  
 
-  window.open("http://127.0.0.1:5500/", "_self");
+  window.open("index.html" , "_self");
 }
 
 function callHelp() {
